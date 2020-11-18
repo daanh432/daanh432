@@ -4,11 +4,13 @@ My name is Daan Hendriks and I'm from The Netherlands. I'm a 18 year old softwar
 
 
 ### 🔭 I’m currently working on:
-- [NodeJS](https://nodejs.org/) projects used commercially in production
-- Webdevelopment backend and frontend in [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
+- [NodeJS](https://nodejs.org/) projects used commercially and in production
+- [.NET Core](https://dot.net/) projets used commercially and in production
+- Webdevelopment backend and frontend in [ASP.NET Core](http://asp.net/), [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
 
 ### 🌱 I’m currently learning:
-- Framework [Next.js](https://nextjs.org/) 
+- Framework [Next.js](https://nextjs.org/)
+- Framework [Django](https://djangoproject.com/)
 
 ### 📫 How to reach me: 
 - Via email: located on [my website](https://daanhendriks.nl/contact)
