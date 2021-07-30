@@ -12,7 +12,7 @@ My name is Daan Hendriks and I'm from The Netherlands. I'm a 18 year old softwar
 - Framework [Next.js](https://nextjs.org/)
 
 ### 👯 Other skills I can work with:
-- Framework [Flask](https://flask.palletsprojects.com/)
+- Web development with the framework [Flask](https://flask.palletsprojects.com/)
 
 ### 📫 How to reach me: 
 - Via email: located on [my website](https://daanhendriks.nl/contact)
