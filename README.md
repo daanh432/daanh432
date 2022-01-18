@@ -9,10 +9,12 @@ My name is Daan Hendriks and I'm from The Netherlands. I'm a 18 year old softwar
 - Webdevelopment backend and frontend in [ASP.NET Core](http://asp.net/), [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
 
 ### 🌱 I’m currently learning:
-- Framework [Next.js](https://nextjs.org/)
+- Mobile development with [Flutter](https://flutter.dev/), [Native Android](https://developer.android.com/), [Native IOS](https://developer.apple.com/swift/)
 
 ### 👯 Other skills I can work with:
 - Web development with the framework [Flask](https://flask.palletsprojects.com/)
+- DevOps with [Azure](https://azure.microsoft.com/) and [AWS](https://aws.amazon.com/)
+- C++ development
 
 ### 📫 How to reach me: 
 - Via email: located on [my website](https://daanhendriks.nl/contact)
