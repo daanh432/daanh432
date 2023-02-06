@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-My name is Daan Hendriks and I'm from The Netherlands. I'm a 18 year old software developer. I've completed a software development study before but I'm still continuing to study software development at Avans University of Applied Science.
+My name is Daan Hendriks and I'm from The Netherlands. I'm a 20 year old software developer. I've completed a software development study before but I'm still continuing to study software development at Avans University of Applied Science.
 
 
 ### 🔭 I’m currently working on:
-- [NodeJS](https://nodejs.org/) projects used commercially and in production
-- [.NET Core](https://dot.net/) projects used commercially and in production
-- Webdevelopment backend and frontend in [ASP.NET Core](http://asp.net/), [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
+- [NodeJS](https://nodejs.org/) backend projects used commercially and in production
+- [.NET Core](https://dot.net/) backend projects used commercially and in production
+- [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/) backend/frontend projects used commercially and in production
+- [Spring](https://spring.io/) [Java](https://www.java.com/) backend projects used commercially and in production.
 
 ### 🌱 I’m currently learning:
-- Mobile development with [Flutter](https://flutter.dev/), [Native Android](https://developer.android.com/), [Native IOS](https://developer.apple.com/swift/)
+- Cloud Ops with [Ansible](https://www.ansible.com/) and Kubernetes
 
 ### 👯 Other skills I can work with:
 - Web development with the framework [Flask](https://flask.palletsprojects.com/)
 - DevOps with [Azure](https://azure.microsoft.com/) and [AWS](https://aws.amazon.com/)
 - C++ development
+- Mobile development with [Flutter](https://flutter.dev/), [Native Android](https://developer.android.com/), [Native IOS](https://developer.apple.com/swift/)
+- Webdevelopment with [ASP.NET Core](http://asp.net/)
 
 ### 📫 How to reach me: 
 - Via email: located on [my website](https://daanhendriks.nl/contact)
